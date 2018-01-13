@@ -1,6 +1,3 @@
-###Small heading
-
-*List1
-*List2
+#Small heading
 
 Testing how to use GitHub.
