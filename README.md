@@ -1,3 +1,3 @@
-#Small heading
+#Test heading
 
-Testing how to use GitHub.
+Learning Git/GitHub.
